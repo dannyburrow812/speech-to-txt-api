@@ -37,9 +37,9 @@ Thank you for considering me for the development of a Sermon Transcription and E
 6. Efficient storage solution for storing and retrieving long text data.
 
 ## Architecture decision record (ADR)
-  - [Front-End Programming Language](https://github.com/dannyburrow812/speech-to-text-api/blob/main/Front-End%20Programming%20Language%20Selection.md)
-  - [Speech-to-Text API Selection](https://github.com/dannyburrow812/speech-to-text-api/blob/main/Speech-to-Text%20API%20Selection.md)
-  - [Code sample](https://github.com/dannyburrow812/speech-to-text-api/blob/main/program.cs)
+  - [Front-End Programming Language](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Front-End%20Programming%20Language%20Selection.md)
+  - [Speech-to-Text API Selection](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Speech-to-Text%20API%20Selection.md)
+  - [Code sample](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/program.cs)
 
 ## Conclusion:
 I am committed to delivering a high-quality Sermon Transcription and Editing Platform that meets your needs and exceeds your expectations. With my expertise in React.js, .NET, and Google Cloud technologies, I am confident in my ability to execute this project successfully.
