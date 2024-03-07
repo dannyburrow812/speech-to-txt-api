@@ -1,4 +1,4 @@
-# Proposal for Speech-to-Text API Selection**
+# Proposal for Speech-to-Text API Selection
 
 ## Objective:
 The objective of this proposal is to evaluate and recommend a Speech-to-Text (STT) API that meets the following criteria: low cost, the ability to differentiate between multiple speakers, and high accuracy. We will compare Google Cloud Speech-to-Text API, Microsoft Azure Speech Service, and IBM Watson Speech to Text based on these requirements.
