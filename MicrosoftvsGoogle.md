@@ -1,4 +1,4 @@
-# Speech-to-text apps: Microsoft vs Google - which is the best for dictation?
+# Microsoft vs Google
 Microsoft and Google are major players in developing voice to text apps. Microsoft Azure Speech Service and Google Cloud Speech-to-Text are leading platforms for voice typing, transcription, and productivity. In this guide, we’ll compare the Microsoft and Google speech-to-text apps to help us decide.
 
 ## Features
