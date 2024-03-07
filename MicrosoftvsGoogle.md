@@ -22,6 +22,15 @@ All that said, getting better results from Microsoft’s software is dependent o
 We found that the two apps are also very comparable when it comes to recognizing multiple speakers. This feature isn’t always perfectly accurate if we have two people with a similar tone and a less than crisp recording. But most of the time, both Speech Service and Speech-to-Text were each able to differentiate speakers on a conference call within the transcribed text.
 
 ## Pricing and plans
-Google Cloud Speech-to-Text pricing is based on usage, including the duration of audio processed (in seconds).
 
-Azure Speech to Text pricing is based on the number of speech units consumed.
+- Google Cloud Speech-to-Text pricing is based on usage, including the duration of audio processed.
+For 2000 hours it costs $1920 per month
+
+![alt text](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Images/Google%20Pricing.png)
+You can find more details on pricing [here](https://cloud.google.com/products/calculator?hl=en&dl=CiQ5ZDJmYjBlOC1kM2M0LTRlMDktOTg3Ny00OGU2YzJhYjMwM2EQFRokQUQ2NjA0MEEtQkY1Mi00ODNBLUFCQTQtMzc4ODhBQzFFQkYz).
+
+- Azure Speech to Text pricing is based on the number of speech units consumed.
+For 2000 hours it costs $1600 per month
+
+![alt text](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Images/Azure%20Pricing.png)
+You can find more details on pricing [here](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/).
