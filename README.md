@@ -46,6 +46,7 @@ Thank you for considering my proposal to develop a Sermon Transcription, Transla
   - [Speech-to-Text APIs (Things to consider when choosing an AP)](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Speech-to-Text%20APIs.md)
   - [Choosing between Microsoft and Azure](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/MicrosoftvsGoogle.md)
   - [Sermon Detection](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/the-sermon-detection.md)
+  - [Questions](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/QuestionToAsk.md)
   - [Code Sample](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/program.cs)
 
 ## Conclusion:
