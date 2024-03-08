@@ -42,9 +42,10 @@ Thank you for considering my proposal to develop a Sermon Transcription, Transla
 7. Efficient storage solution for storing and retrieving long text data.
 
 ## Architecture Decision Record (ADR):
-  - [Front-End Programming Language](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Front-End%20Programming%20Language%20Selection.md)
-  - [Speech-to-Text API Selection](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Speech-to-Text%20API%20Selection.md)
-  - [Comparison for Translation](https://github.com/dannyburrow812/speech-to-txt-api/tree/main/Comparison%20of%20Sophisticated%20NLP%20Algorithms%20vs%20Pre-existing%20Translation%20Services)
+  - [Sophisticated NLP Algorithms vs Pre-existing Translation Services/APIs](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Comparison%20of%20Sophisticated%20NLP%20Algorithms%20vs%20Pre-existing%20Translation%20Services/APIs%20for%20Long%20Text%20Translation.md)
+  - [Speech-to-Text APIs (Things to consider when choosing an AP)](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/Speech-to-Text%20APIs.md)
+  - [Choosing between Microsoft and Azure](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/MicrosoftvsGoogle.md)
+  - [Sermon Detection](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/the-sermon-detection.md)
   - [Code Sample](https://github.com/dannyburrow812/speech-to-txt-api/blob/main/program.cs)
 
 ## Conclusion:
